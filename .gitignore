@@ -1,0 +1,34 @@
+# Python cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+.env/
+.virtual_documents/
+
+# Dataset and model files (large files)
+*.csv
+*.tsv
+*.json
+*.h5
+*.pkl
+*.joblib
+catboost_info/
+
+# Logs and temporary files
+*.log
+
+"student_resource/images/train/" 
+"*.jpg" 
+"*.jpeg" 
+"*.png" 
+student_resource/images/train/
+*.jpg
+*.jpeg
+*.png
+*.pkl 
